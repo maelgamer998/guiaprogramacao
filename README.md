@@ -51,7 +51,7 @@ Se quiser sugerir melhorias, adicionar conteúdo, corrigir erros ou propor novas
 
 ## 💻 Autor
 
-Desenvolvido e mantido por **Ismael**  
+Desenvolvido e mantido por **MAEL**  
 📦 Repositório: [Guia de Programação](https://guiaprogramacao.free.nf/)
 
 ---
