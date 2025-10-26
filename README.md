@@ -4,7 +4,7 @@
 ![Licença](https://img.shields.io/badge/licença-MIT-blue)
 ![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-orange)
 ![Última atualização](https://img.shields.io/badge/última_atualização-outubro_2025-yellow)
-![Versão](https://img.shields.io/badge/versão-1.0.0-red)
+![Versão](https://img.shields.io/badge/versão-2.1.4-red)
 ![Linguagens](https://img.shields.io/badge/languages-múltiplas-purple)
 
 ---
