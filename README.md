@@ -1,29 +1,38 @@
 # 🧠 Guia de Programação
 
-Bem-vindo ao **Guia de Programação** — um repositório completo para quem quer **aprender a programar do básico ao avançado**, com materiais organizados por linguagem, explicações práticas e exemplos de código reais.
+![Status](https://img.shields.io/badge/status-ativo-brightgreen)
+![Licença](https://img.shields.io/badge/licença-MIT-blue)
+![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-orange)
+![Última atualização](https://img.shields.io/badge/última_atualização-outubro_2025-yellow)
+![Versão](https://img.shields.io/badge/versão-1.0.0-red)
+![Linguagens](https://img.shields.io/badge/languages-múltiplas-purple)
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-O objetivo deste repositório é oferecer um **guia unificado e acessível** para quem deseja dominar várias linguagens de programação.  
-Cada guia aborda desde os **conceitos fundamentais** até tópicos **avançados**, incluindo práticas recomendadas e exercícios.
+O **Guia de Programação** é um repositório dedicado a ajudar programadores de todos os níveis a aprender e dominar diversas linguagens.  
+Aqui você encontrará guias **do básico ao avançado**, com explicações, exemplos de código e exercícios práticos.
 
+<p align="center">
+  <img src="guiaprogramacao.png" 
+       alt="Guia de Programação Banner" width="800" />
+</p>
 ---
 
 ## 📚 Linguagens Disponíveis
 
-Atualmente, o repositório contém guias para diversas linguagens, incluindo:
+Atualmente, o repositório contém guias para:
 
-- 🐍 **Python** — Lógica, estruturas, automação e mais  
-- ☕ **Java** — Programação orientada a objetos e aplicações  
-- 🌐 **JavaScript** — Fundamentos, DOM e projetos práticos  
+- 🐍 **Python** — Fundamentos, automação e lógica de programação  
+- ☕ **Java** — POO e aplicações desktop  
+- 🌐 **JavaScript** — Lógica, DOM e projetos interativos  
 - 🧱 **HTML & CSS** — Base da web moderna  
-- ⚙️ **C** — Lógica estruturada e ponte para outras linguagens  
-- 🦀 **Rust** — Segurança e alta performance  
+- ⚙️ **C** — Fundamentos e lógica estruturada  
+- 🦀 **Rust** — Performance e segurança de memória  
 - 💙 **Lua** — Guia completo para iniciantes *(Novo!)*  
 - 🐦 **Dart** — Fundamentos e integração com Flutter *(Novo!)*  
-- 📱 **Flutter** — Desenvolvimento mobile multiplataforma *(Novo!)*
+- 📱 **Flutter** — Criação de apps multiplataforma *(Novo!)*  
 
 ---
 
@@ -36,25 +45,31 @@ Atualmente, o repositório contém guias para diversas linguagens, incluindo:
 
 > 🚧 **Em Desenvolvimento**
 > - 🧠 Novos guias estão sendo produzidos!
-> - 📝 Todas as futuras adições serão publicadas aqui na seção de **Logs**.
+> - 📝 As próximas atualizações serão publicadas aqui nesta seção.
 
 ---
 
 ## 🤝 Contribuições
 
-Contribuições são **bem-vindas**!  
-Se quiser sugerir melhorias, adicionar conteúdo, corrigir erros ou propor novas linguagens, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
+Contribuições são **bem-vindas!**  
+Sinta-se à vontade para abrir uma **issue** com sugestões ou enviar um **pull request** com melhorias.
 
-> 💬 Toda ajuda é importante e ajuda o projeto a crescer!
+> 💬 Toda ajuda é bem-vinda e contribui para o crescimento do projeto.
+
+---
+
+## 📜 Licença
+
+Este projeto é licenciado sob os termos da **Licença MIT**.  
+Veja o arquivo [`LICENSE`](LICENSE) para mais informações.
 
 ---
 
 ## 💻 Autor
 
-Desenvolvido e mantido por **MAEL**  
-📦 Repositório: [Guia de Programação](https://guiaprogramacao.free.nf/)
+**Desenvolvido por [MAEL](https://github.com/maelgamer998)**  
+📦 Repositório: [Guia de Programação](https://guiaprogramacao.free.nf)
 
 ---
 
-⭐ **Se este projeto te ajudou, não esqueça de deixar uma estrela no repositório!**  
-Isso motiva o desenvolvimento e ajuda outras pessoas a descobrirem o conteúdo. 😊
+⭐ **Se este projeto te ajudou, não esqueça de deixar uma estrela no repositório!**
