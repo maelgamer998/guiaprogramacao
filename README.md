@@ -18,6 +18,7 @@ Aqui você encontrará guias **do básico ao avançado**, com explicações, exe
   <img src="guiaprogramacao.png" 
        alt="Guia de Programação Banner" width="800" />
 </p>
+
 ---
 
 ## 📚 Linguagens Disponíveis
